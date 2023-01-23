@@ -3,6 +3,6 @@
 </div>
 
 <div align="left" width="100%"> 
-   <a href="https://github.com/Samss6"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samis6&theme=tokyonight"/></a>
+   <a href="https://github.com/Samis6"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samis6&theme=tokyonight"/></a>
    <a href="https://github.com/Samis6"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samis6&theme=tokyonight"/></a>
 </div>
