@@ -1,27 +1,28 @@
-# Olá, eu sou o Samisses 👋
+# Hi, I'm Samisses 👋
 
-Engenheiro de Software Sênior · WordPress · PHP · JavaScript
+Senior Software Engineer · WordPress · PHP · JavaScript
 
-Construo e evoluo sites para marcas como Sankhya, Moderna, epharma, Skyone e Qive. Temas e plugins WordPress feitos do zero, integrações via API e foco em performance, SEO técnico e acessibilidade.
+I build and evolve websites for brands like Sankhya, Moderna, epharma, Skyone and Qive. Custom WordPress themes and plugins built from scratch, API integrations, and a strong focus on performance, technical SEO and accessibility.
 
-📍 João Pessoa – PB · Remoto, híbrido ou presencial<br>
+🌎 Open to remote, hybrid or on-site roles<br>
 📩 [samisses.r@gmail.com](mailto:samisses.r@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/samisses-ramalho/)
 
 ---
 
-## 🌐 Projetos no ar
+## 🌐 Live projects
 
-| Projeto | Link | Plataforma |
+| Project | Link | Platform |
 |---|---|---|
-| Sankhya | [sankhya.com.br](https://www.sankhya.com.br) | WordPress (tema e plugins próprios) |
-| Sankhya Connection | [sankhyaconnection.com.br](https://sankhyaconnection.com.br) | WordPress |
-| Moderna – Escola Pública | [moderna.com.br/escola-publica](https://moderna.com.br/escola-publica/) | WordPress |
+| Sankhya | [sankhya.com.br](https://www.sankhya.com.br) | WordPress (custom theme & plugins) |
+| Sankhya Connection | [sankhyaconnection.com.br](https://sankhyaconnection.com.br) | WordPress (custom theme & plugins) |
+| Moderna – PNLD | [moderna.com.br/escola-publica/pnld](https://moderna.com.br/escola-publica/pnld/) | WordPress |
+| Moderna – ModernAmigos | [moderna.com.br/escola-publica/modernamigos](https://moderna.com.br/escola-publica/modernamigos/) | WordPress |
 | Qive | [qive.com.br](https://qive.com.br) | Webflow |
-| epharma | [epharma.com.br](https://epharma.com.br) | WordPress + Elementor |
+| epharma | [epharma.com.br](https://epharma.com.br) | WordPress |
 | Skyone | [skyone.solutions](https://www.skyone.solutions) | WordPress + Elementor |
 | Superfrio | [superfrio.com.br](https://superfrio.com.br) | WordPress + Elementor |
 | TPS IT | [tpsit.com.br](https://www.tpsit.com.br) | WordPress |
-| Nexer Group | [Brasil](https://nexergroup.com/br/) · [UK](https://nexergroup.com/uk/) | WordPress |
+| Nexer Group | [Brazil](https://nexergroup.com/br/) · [UK](https://nexergroup.com/uk/) | WordPress |
 | Beltrão Advogados | [beltraoadv.com.br](https://www.beltraoadv.com.br) | WordPress + Elementor |
 | SEAD – UFPB | [sead.ufpb.br](https://www.sead.ufpb.br/sead) · [Moodle](https://classes.sead.ufpb.br/) | Plone · Moodle |
 
@@ -29,11 +30,11 @@ Construo e evoluo sites para marcas como Sankhya, Moderna, epharma, Skyone e Qiv
 
 ## 🛠️ Stack
 
-- **Linguagens:** PHP · JavaScript (ES6+) · HTML5 · CSS3 · SQL
-- **WordPress:** temas e plugins do zero · ACF · WP REST API · Elementor · multilíngue
-- **Front-end:** Tailwind CSS · responsividade · acessibilidade
-- **Performance e SEO:** Core Web Vitals · PageSpeed/Lighthouse · SEO técnico
-- **Ferramentas:** Git · Webflow · Figma · Google Tag Manager · Google Analytics · Search Console
+- **Languages:** PHP · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · SQL
+- **WordPress:** custom themes & plugins · ACF · WP REST API · Elementor · multilingual sites
+- **Front-end:** Tailwind CSS · responsive design · accessibility
+- **Performance & SEO:** Core Web Vitals · PageSpeed/Lighthouse · technical SEO
+- **Tools:** Git · Webflow · Figma · Google Tag Manager · Google Analytics · Search Console
 
 ---
 
