@@ -8,6 +8,16 @@ Building and evolving websites for brands like Sankhya, Moderna, epharma, Skyone
 
 ---
 
+## 🛠️ Stack
+
+- **Languages:** PHP · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · SQL
+- **WordPress:** custom themes & plugins · ACF · WP REST API · Elementor · multilingual sites
+- **Front-end:** Tailwind CSS · responsive design · accessibility
+- **Performance & SEO:** Core Web Vitals · PageSpeed/Lighthouse · technical SEO
+- **Tools:** Git · Webflow · Figma · Adobe XD · Photoshop · Google Tag Manager · Google Analytics · Search Console
+
+---
+
 ## 🌐 Live projects
 
 | Project | Link | Platform |
@@ -25,24 +35,3 @@ Building and evolving websites for brands like Sankhya, Moderna, epharma, Skyone
 | Beltrão Advogados | [beltraoadv.com.br](https://www.beltraoadv.com.br) | WordPress + Elementor |
 | SEAD – UFPB | [sead.ufpb.br](https://www.sead.ufpb.br/sead) | Plone |
 | SEAD – UFPB (Moodle) | [classes.sead.ufpb.br](https://classes.sead.ufpb.br/) | Moodle |
-
----
-
-## 🛠️ Stack
-
-- **Languages:** PHP · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · SQL
-- **WordPress:** custom themes & plugins · ACF · WP REST API · Elementor · multilingual sites
-- **Front-end:** Tailwind CSS · responsive design · accessibility
-- **Performance & SEO:** Core Web Vitals · PageSpeed/Lighthouse · technical SEO
-- **Tools:** Git · Webflow · Figma · Adobe XD · Photoshop · Google Tag Manager · Google Analytics · Search Console
-
----
-
-<div align="left" width="100%">
-   <a href="https://github.com/Samis6"><img width="610px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samis6&theme=tokyonight"/></a>
-</div>
-
-<div align="left" width="100%">
-   <a href="https://github.com/Samis6"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samis6&theme=tokyonight"/></a>
-   <a href="https://github.com/Samis6"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samis6&theme=tokyonight"/></a>
-</div>
