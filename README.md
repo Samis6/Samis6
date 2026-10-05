@@ -2,9 +2,8 @@
 
 Senior Software Engineer · WordPress · PHP · JavaScript
 
-I build and evolve websites for brands like Sankhya, Moderna, epharma, Skyone and Qive. Custom WordPress themes and plugins built from scratch, API integrations, and a strong focus on performance, technical SEO and accessibility.
+Building and evolving websites for brands like Sankhya, Moderna, epharma, Skyone and Qive. Custom WordPress themes and plugins built from scratch, API integrations, and a strong focus on performance, technical SEO and accessibility.
 
-🌎 Open to remote, hybrid or on-site roles<br>
 📩 [samisses.r@gmail.com](mailto:samisses.r@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/samisses-ramalho/)
 
 ---
