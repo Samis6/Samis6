@@ -1,6 +1,8 @@
 # Hi, I'm Samiss 👋
 
-Senior Software Engineer · WordPress · PHP · JavaScript
+Senior Software Engineer | PHP · JavaScript · TypeScript · Tailwind · WP ·  Webflow
+
+
 
 Building and evolving websites for brands like Sankhya, Moderna, epharma, Skyone and Qive. Custom WordPress themes and plugins built from scratch, API integrations, and a strong focus on performance, technical SEO and accessibility.
 
