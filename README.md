@@ -1,4 +1,4 @@
-# Hi, I'm Samisses 👋
+# Hi, I'm Samiss 👋
 
 Senior Software Engineer · WordPress · PHP · JavaScript
 
@@ -19,12 +19,13 @@ I build and evolve websites for brands like Sankhya, Moderna, epharma, Skyone an
 | Moderna – ModernAmigos | [moderna.com.br/escola-publica/modernamigos](https://moderna.com.br/escola-publica/modernamigos/) | WordPress |
 | Qive | [qive.com.br](https://qive.com.br) | Webflow |
 | epharma | [epharma.com.br](https://epharma.com.br) | WordPress |
-| Skyone | [skyone.solutions](https://www.skyone.solutions) | WordPress + Elementor |
+| Skyone | [skyone.solutions (archived, 2025)](https://web.archive.org/web/20250504081132/https://skyone.solutions/) | WordPress + Elementor |
 | Superfrio | [superfrio.com.br](https://superfrio.com.br) | WordPress + Elementor |
 | TPS IT | [tpsit.com.br](https://www.tpsit.com.br) | WordPress |
 | Nexer Group | [Brazil](https://nexergroup.com/br/) · [UK](https://nexergroup.com/uk/) | WordPress |
 | Beltrão Advogados | [beltraoadv.com.br](https://www.beltraoadv.com.br) | WordPress + Elementor |
-| SEAD – UFPB | [sead.ufpb.br](https://www.sead.ufpb.br/sead) · [Moodle](https://classes.sead.ufpb.br/) | Plone · Moodle |
+| SEAD – UFPB | [sead.ufpb.br](https://www.sead.ufpb.br/sead) | Plone |
+| SEAD – UFPB (Moodle) | [classes.sead.ufpb.br](https://classes.sead.ufpb.br/) | Moodle |
 
 ---
 
@@ -34,7 +35,7 @@ I build and evolve websites for brands like Sankhya, Moderna, epharma, Skyone an
 - **WordPress:** custom themes & plugins · ACF · WP REST API · Elementor · multilingual sites
 - **Front-end:** Tailwind CSS · responsive design · accessibility
 - **Performance & SEO:** Core Web Vitals · PageSpeed/Lighthouse · technical SEO
-- **Tools:** Git · Webflow · Figma · Google Tag Manager · Google Analytics · Search Console
+- **Tools:** Git · Webflow · Figma · Adobe XD · Photoshop · Google Tag Manager · Google Analytics · Search Console
 
 ---
 
